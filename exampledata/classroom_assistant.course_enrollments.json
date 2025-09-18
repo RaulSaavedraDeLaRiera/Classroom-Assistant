@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "68c6eaf2b14465e1ea25e1f4"
+  },
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "studentId": {
+    "$oid": "68b1be108d2f6873fa038fc7"
+  },
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "status": "active",
+  "enrolledAt": {
+    "$date": "2025-09-14T16:18:58.806Z"
+  },
+  "previousEnrollmentId": null,
+  "progress": 7,
+  "totalExercises": 14,
+  "completedExercises": 1,
+  "totalModules": 6,
+  "completedModules": 0,
+  "averageScore": 3.57,
+  "totalPoints": 127,
+  "earnedPoints": 5,
+  "exerciseScores": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    50,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "completedExerciseIds": [
+    {
+      "$oid": "68c6fc023f568326a60145b9"
+    }
+  ],
+  "completedModuleIds": [],
+  "visible": true,
+  "createdAt": {
+    "$date": "2025-09-14T16:18:58.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:33:16.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c6ee39733c7fad3227ba01"
+  },
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "studentId": {
+    "$oid": "68b1bed38e35dedc9ab07f37"
+  },
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "status": "active",
+  "enrolledAt": {
+    "$date": "2025-09-14T16:32:57.753Z"
+  },
+  "previousEnrollmentId": null,
+  "progress": 0,
+  "totalExercises": 5,
+  "completedExercises": 0,
+  "totalModules": 3,
+  "completedModules": 0,
+  "averageScore": 0,
+  "totalPoints": 42,
+  "earnedPoints": 0,
+  "exerciseScores": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "completedExerciseIds": [],
+  "completedModuleIds": [],
+  "visible": true,
+  "createdAt": {
+    "$date": "2025-09-14T16:32:57.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T16:32:57.838Z"
+  },
+  "__v": 0
+}]

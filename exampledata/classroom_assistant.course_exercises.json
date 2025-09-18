@@ -1,0 +1,2197 @@
+[{
+  "_id": {
+    "$oid": "68c6eae5b14465e1ea25e137"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e130"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": false,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 4,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T16:18:45.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:25:24.486Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c6eae5b14465e1ea25e13c"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6eae5b14465e1ea25e13c"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "courseModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e130"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T16:18:45.328Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T16:21:56.240Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c6eae5b14465e1ea25e137"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c6eae5b14465e1ea25e15f"
+  },
+  "title": "Test exercise",
+  "content": "This is a test b",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e155"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T16:18:45.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T18:37:59.966Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c70b87f11b065cd4a72217"
+  },
+  "previousExerciseId": {
+    "$oid": "68c6ecec733c7fad3227b7ca"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6eaecb14465e1ea25e1ac"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "aaa{}aaaavvvv",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c6eaecb14465e1ea25e19e"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T16:18:52.991Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T17:25:03.686Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c6ecec733c7fad3227b7ca"
+  },
+  "title": "Test 2",
+  "content": "Test doubleaaaaa",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e155"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 3,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T16:27:24.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T17:07:35.227Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c6eae5b14465e1ea25e15f"
+  },
+  "previousExerciseId": null,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "68c6fc023f568326a60145b9"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c6fc023f568326a601457f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T17:31:46.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T17:31:46.148Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c6fc023f568326a60145be"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c6fc023f568326a60145be"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c6fc023f568326a601457f"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T17:31:46.146Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T17:37:22.963Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c6fd52e111d63c87018f3e"
+  },
+  "previousExerciseId": {
+    "$oid": "68c6fc023f568326a60145b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6fd52e111d63c87018f3e"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c6fc023f568326a601457f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T17:37:22.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:07:44.678Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7128090c32d0167f5aa26"
+  },
+  "previousExerciseId": {
+    "$oid": "68c6fc023f568326a60145be"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c70b87f11b065cd4a72217"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e155"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T18:37:59.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:33:56.096Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c718a462bfbe49fa8fd2b3"
+  },
+  "previousExerciseId": {
+    "$oid": "68c6eae5b14465e1ea25e15f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7128090c32d0167f5aa26"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c6fc023f568326a601457f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": false,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:07:44.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:25:02.558Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7249962bfbe49fa902e66"
+  },
+  "previousExerciseId": {
+    "$oid": "68c6fd52e111d63c87018f3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c712c590c32d0167f5aa9b"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c712c590c32d0167f5aa5a"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:08:53.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:08:53.976Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c712c590c32d0167f5aaa0"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c712c590c32d0167f5aaa0"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c712c590c32d0167f5aa5a"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:08:53.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:08:53.978Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c712c590c32d0167f5aaa5"
+  },
+  "previousExerciseId": {
+    "$oid": "68c712c590c32d0167f5aa9b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c712c590c32d0167f5aaa5"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c712c590c32d0167f5aa5a"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:08:53.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:08:53.980Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c712c590c32d0167f5aaa0"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7182a62bfbe49fa8fcf93"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7182a62bfbe49fa8fcf4b"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:31:54.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:31:54.674Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c718a462bfbe49fa8fd2b3"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e155"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:33:56.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:33:56.097Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c70b87f11b065cd4a72217"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7191062bfbe49fa8fd441"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c7191062bfbe49fa8fd3f2"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:35:44.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:35:44.411Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7191062bfbe49fa8fd446"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7191062bfbe49fa8fd446"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7191062bfbe49fa8fd3f2"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:35:44.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:35:44.413Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7191062bfbe49fa8fd441"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7194762bfbe49fa8fd55e"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7194762bfbe49fa8fd508"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:36:39.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:36:39.415Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7199c62bfbe49fa8fd69f"
+  },
+  "title": "Test exercise",
+  "content": "This is a test b",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7199c62bfbe49fa8fd642"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:38:04.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:38:04.591Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7199c62bfbe49fa8fd6a4"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7199c62bfbe49fa8fd6a4"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7199c62bfbe49fa8fd642"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:38:04.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:38:04.592Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7199c62bfbe49fa8fd69f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c719d262bfbe49fa8fd7e2"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c719d262bfbe49fa8fd77e"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:38:58.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:38:58.974Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71a0562bfbe49fa8fd8ac"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c71a0562bfbe49fa8fd841"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:39:49.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:39:49.469Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71a0562bfbe49fa8fd8b1"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71a0562bfbe49fa8fd8b1"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c71a0562bfbe49fa8fd841"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:39:49.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:39:49.470Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71a0562bfbe49fa8fd8b6"
+  },
+  "previousExerciseId": {
+    "$oid": "68c71a0562bfbe49fa8fd8ac"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a0562bfbe49fa8fd8b6"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c71a0562bfbe49fa8fd841"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:39:49.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:39:49.472Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c71a0562bfbe49fa8fd8b1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a1662bfbe49fa8fd9f8"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c71a1662bfbe49fa8fd986"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:40:06.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:40:06.689Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71a1662bfbe49fa8fd9fd"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71a1662bfbe49fa8fd9fd"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "courseModuleId": {
+    "$oid": "68c71a1662bfbe49fa8fd986"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:40:06.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:40:06.690Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c71a1662bfbe49fa8fd9f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a4c62bfbe49fa8fdaf6"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c71a4c62bfbe49fa8fda7d"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:41:00.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:41:00.712Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71a4c62bfbe49fa8fdafb"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71a4c62bfbe49fa8fdafb"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "courseModuleId": {
+    "$oid": "68c71a4c62bfbe49fa8fda7d"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:41:00.708Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:41:00.714Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c71a4c62bfbe49fa8fdaf6"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a5762bfbe49fa8fdc43"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c71a5762bfbe49fa8fdbc3"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:41:11.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:41:11.347Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71a5762bfbe49fa8fdc48"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71a5762bfbe49fa8fdc48"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c71a5762bfbe49fa8fdbc3"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:41:11.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:41:11.348Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c71a5762bfbe49fa8fdc43"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a9e62bfbe49fa8fdde6"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c71a9d62bfbe49fa8fdd5f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:42:22.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:42:22.046Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71a9e62bfbe49fa8fddeb"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71a9e62bfbe49fa8fddeb"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c71a9d62bfbe49fa8fdd5f"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:42:22.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:42:22.047Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71a9e62bfbe49fa8fddf0"
+  },
+  "previousExerciseId": {
+    "$oid": "68c71a9e62bfbe49fa8fdde6"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a9e62bfbe49fa8fddf0"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c71a9d62bfbe49fa8fdd5f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:42:22.043Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:42:22.048Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c71a9e62bfbe49fa8fddeb"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71afc62bfbe49fa8fe12f"
+  },
+  "title": "Test exercise",
+  "content": "This is a test b",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c71afc62bfbe49fa8fe0a1"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:43:56.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:43:56.968Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71afc62bfbe49fa8fe134"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71afc62bfbe49fa8fe134"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c71afc62bfbe49fa8fe0a1"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:43:56.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:43:56.969Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c71afc62bfbe49fa8fe12f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71b4e62bfbe49fa8fe3df"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c71b4e62bfbe49fa8fe34a"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:45:18.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:45:18.783Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c71b4e62bfbe49fa8fe3e4"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c71b4e62bfbe49fa8fe3e4"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "courseModuleId": {
+    "$oid": "68c71b4e62bfbe49fa8fe34a"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T19:45:18.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T19:45:18.783Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c71b4e62bfbe49fa8fe3df"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7249962bfbe49fa902e66"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c6fc023f568326a601457f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": false,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:24:57.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:25:15.952Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7128090c32d0167f5aa26"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724c262bfbe49fa90312b"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c724c262bfbe49fa90308f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:25:38.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:25:38.457Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c724c262bfbe49fa903130"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c724c262bfbe49fa903130"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c724c262bfbe49fa90308f"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:25:38.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:25:38.458Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c724c262bfbe49fa903135"
+  },
+  "previousExerciseId": {
+    "$oid": "68c724c262bfbe49fa90312b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724c262bfbe49fa903135"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c724c262bfbe49fa90308f"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:25:38.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:25:38.459Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c724c262bfbe49fa903130"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724ee62bfbe49fa903288"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c724ee62bfbe49fa9031e5"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:26:22.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:26:22.188Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c724ee62bfbe49fa90328d"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c724ee62bfbe49fa90328d"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c724ee62bfbe49fa9031e5"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:26:22.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:26:22.189Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c724ee62bfbe49fa903292"
+  },
+  "previousExerciseId": {
+    "$oid": "68c724ee62bfbe49fa903288"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724ee62bfbe49fa903292"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c724ee62bfbe49fa9031e5"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:26:22.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:26:22.191Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c724ee62bfbe49fa90328d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724f362bfbe49fa90344b"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c724f362bfbe49fa9033a1"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:26:27.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:26:27.417Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c724f362bfbe49fa903450"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c724f362bfbe49fa903450"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c724f362bfbe49fa9033a1"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:26:27.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:26:27.418Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c724f362bfbe49fa90344b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7252962bfbe49fa90377b"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c7252962bfbe49fa9036ca"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:27:21.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:27:21.657Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7252962bfbe49fa903780"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7252962bfbe49fa903780"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "courseModuleId": {
+    "$oid": "68c7252962bfbe49fa9036ca"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:27:21.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:27:21.658Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7252962bfbe49fa90377b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7253462bfbe49fa903879"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c7253462bfbe49fa9037c1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:27:32.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:27:32.895Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7253462bfbe49fa90387e"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7253462bfbe49fa90387e"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "courseModuleId": {
+    "$oid": "68c7253462bfbe49fa9037c1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:27:32.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:27:32.897Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7253462bfbe49fa903879"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7259e62bfbe49fa903cf8"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c7259e62bfbe49fa903c39"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:29:18.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:29:18.885Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7259e62bfbe49fa903cfd"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7259e62bfbe49fa903cfd"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7259e62bfbe49fa903c39"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:29:18.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:29:18.886Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7259e62bfbe49fa903cf8"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c725ca62bfbe49fa903ec6"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c725c962bfbe49fa903e00"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:30:02.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:30:02.086Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c725fb62bfbe49fa904087"
+  },
+  "title": "demo exercise",
+  "description": "aaa",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c725fb62bfbe49fa903fba"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:30:51.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:30:51.906Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c725fb62bfbe49fa90408c"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c725fb62bfbe49fa90408c"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "courseModuleId": {
+    "$oid": "68c725fb62bfbe49fa903fba"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:30:51.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:30:51.908Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c725fb62bfbe49fa904087"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7263362bfbe49fa904214"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c7263362bfbe49fa904140"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:31:47.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:31:47.916Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7263362bfbe49fa904219"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7263362bfbe49fa904219"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7263362bfbe49fa904140"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:31:47.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:31:47.918Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7263362bfbe49fa904214"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7264d62bfbe49fa904423"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7264d62bfbe49fa904348"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:32:13.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:32:13.515Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7265062bfbe49fa90452d"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "courseModuleId": {
+    "$oid": "68c7265062bfbe49fa90444b"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:32:16.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:32:16.416Z"
+  },
+  "__v": 0,
+  "nextExerciseId": {
+    "$oid": "68c7265062bfbe49fa904532"
+  },
+  "previousExerciseId": null
+},
+{
+  "_id": {
+    "$oid": "68c7265062bfbe49fa904532"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7265062bfbe49fa90444b"
+  },
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "maxScore": 10,
+  "difficulty": "beginner",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:32:16.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:32:16.417Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": {
+    "$oid": "68c7265062bfbe49fa90452d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7269962bfbe49fa9047d8"
+  },
+  "title": "Test exercise",
+  "description": "aaa",
+  "content": "{}",
+  "type": "quiz",
+  "courseModuleId": {
+    "$oid": "68c7269962bfbe49fa9046ef"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherExerciseId": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "maxScore": 10,
+  "difficulty": "intermediate",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-14T20:33:29.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:33:29.285Z"
+  },
+  "__v": 0,
+  "nextExerciseId": null,
+  "previousExerciseId": null
+}]

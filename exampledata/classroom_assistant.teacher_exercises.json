@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "68b6054d56d90d27695db86e"
+  },
+  "title": "Test exercise",
+  "content": "{}",
+  "type": "quiz",
+  "teacherModuleId": {
+    "$oid": "68b6054d56d90d27695db86b"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "difficulty": "intermediate",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-01T20:42:53.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T12:20:32.643Z"
+  },
+  "__v": 0,
+  "description": "aaa"
+},
+{
+  "_id": {
+    "$oid": "68b60718cc6d307e0920fe7a"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "templateExerciseId": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "difficulty": "intermediate",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-01T20:50:32.258Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T20:50:32.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b60721cc6d307e0920fe8a"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "difficulty": "beginner",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-01T20:50:41.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T20:50:41.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b991fb4e50209c274c798d"
+  },
+  "title": "demo exercise",
+  "content": "# head aaaaaa bbbbbbbbbbb",
+  "type": "writing",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 50,
+  "difficulty": "beginner",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-04T13:19:55.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T14:13:23.090Z"
+  },
+  "__v": 0,
+  "description": "aaa"
+},
+{
+  "_id": {
+    "$oid": "68b99fce91e393026ab0ddbd"
+  },
+  "title": "demo exercise 2",
+  "description": "bbb",
+  "content": "# Heading 1\n- [ ] Tarea pendiente\n$$\n{lo que creas...}\n$$",
+  "type": "reading",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "demo2"
+  ],
+  "estimatedTime": 20,
+  "difficulty": "beginner",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-04T14:18:54.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T14:18:54.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c053c92242437c51b9dbfa"
+  },
+  "title": "Demo Complete",
+  "description": "Demo Complete",
+  "content": "# English Grammar Exercise: Mixed Tenses and Conditionals\n\n## Instructions\nComplete the following exercises by filling in the blanks with the correct verb forms and conditional structures.\n\n---\n\n## Part I: Present Perfect vs Past Simple (20 points)\n\n### Exercise 1: Choose the correct tense\n\n1. I { } (study) English for five years, but I { } (start) learning when I was 10.\n\n2. She { } (never visit) London, but she { } (go) to Paris last year.\n\n3. How long { } (you work) at this company? I { } (join) in 2020.\n\n4. We { } (not see) that movie yet, but we { } (watch) it last week.\n\n5. { } (you ever be) to Japan? Yes, I { } (go) there three times.\n\n### Exercise 2: Complete with the correct form\n\n6. By this time next year, I { } (graduate) from university.\n\n7. Look at those clouds! It { } (rain) soon.\n\n8. I { } (finish) my homework by 8 PM tonight.\n\n9. They { } (not arrive) yet, but they { } (call) an hour ago.\n\n10. { } (you ever try) sushi? No, I { } (never eat) Japanese food.\n\n---\n\n## Part II: Conditionals (25 points)\n\n### Exercise 3: First Conditional\n\n11. If it { } (rain) tomorrow, we { } (stay) at home.\n\n12. Unless you { } (study) hard, you { } (not pass) the exam.\n\n13. If she { } (call) me, I { } (tell) her the news.\n\n14. We { } (go) to the beach if the weather { } (be) nice.\n\n15. If you { } (not hurry), you { } (miss) the train.\n\n### Exercise 4: Second Conditional\n\n16. If I { } (be) rich, I { } (travel) around the world.\n\n17. She { } (buy) a new car if she { } (have) enough money.\n\n18. If we { } (live) in Paris, we { } (learn) French.\n\n19. I { } (help) you if I { } (know) how to do it.\n\n20. If it { } (not rain) so much, the garden { } (look) better.\n\n### Exercise 5: Third Conditional\n\n21. If I { } (wake up) early, I { } (not miss) the train.\n\n22. She { } (save) money if she { } (not buy) so many clothes.\n\n23. If we { } (leave) earlier, we { } (arrive) on time.\n\n24. I { } (pass) the exam if I { } (study) harder.\n\n25. If it { } (not rain) yesterday, we { } (go) to the park.\n\n---\n\n## Part III: Mixed Conditionals (15 points)\n\n### Exercise 6: Complete the sentences\n\n26. If I { } (study) harder, I { } (pass) the exam.\n\n27. If she { } (be) here now, she { } (help) us with this project.\n\n28. If I { } (know) about the traffic, I { } (leave) earlier.\n\n29. If you { } (not smoke), you { } (feel) better.\n\n30. If we { } (have) more time, we { } (visit) the museum.\n\n---\n\n## Part IV: Writing Section (20 points)\n\n### Essay Question\nWrite a 150-word essay on: \"The importance of learning English in today's world\"\n\n**Your essay:**\n{Write your essay here about the importance of learning English in today's world. Include examples of how English is used in business, technology, education, and international communication. Explain why it's beneficial to learn English and how it can open doors to new opportunities.}\n\n---\n\n## Part V: Vocabulary (10 points)\n\n### Exercise 7: Match the words with their definitions\n\n31. { } (abundant) - existing in large quantities\n32. { } (diligent) - showing care and effort in work\n33. { } (elaborate) - involving many carefully arranged parts\n34. { } (fascinating) - extremely interesting\n35. { } (genuine) - truly what something is said to be\n\n---\n\n## Part VI: Reading Comprehension (10 points)\n\n### Exercise 8: Read the text and answer the questions\n\n**Text:**\n\"The rapid advancement of technology has transformed the way we communicate, work, and learn. English has become the lingua franca of the digital age, connecting people from different cultures and backgrounds. From social media platforms to professional networks, English serves as the common language that bridges gaps and facilitates global understanding.\"\n\n**Questions:**\n\n36. According to the text, what has technology transformed? { } (Answer here)\n\n37. What is English considered in the digital age? { } (Answer here)\n\n38. How does English help people from different cultures? { } (Answer here)\n\n39. What platforms are mentioned in the text? { } (Answer here)\n\n40. What does English facilitate? { } (Answer here)\n\n---\n\n$$\n$$\n$$\n\n**Total Points: 100**\n\nStudent Name: { } \n\nDate: { }",
+  "type": "quiz",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "complete"
+  ],
+  "estimatedTime": 30,
+  "difficulty": "beginner",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-09T16:20:25.967Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-09T16:24:06.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2a9e7dfe7f1faaea5572b"
+  },
+  "title": "try",
+  "description": "try",
+  "content": "aaaaaa- [x] Done aaaaaaa\n# Heading 1\n- [x] Done\n- List item",
+  "type": "quiz",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "aaaa",
+    "aaa"
+  ],
+  "estimatedTime": 5,
+  "difficulty": "beginner",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-11T10:52:23.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T11:08:31.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2adc1dfe7f1faaea55734"
+  },
+  "title": "abc",
+  "description": "<bc",
+  "content": "aaaaaaaaaaaaaaaaa",
+  "type": "quiz",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": false,
+  "tags": [
+    "aaa"
+  ],
+  "estimatedTime": 0,
+  "difficulty": "beginner",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-11T11:08:49.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T11:08:54.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2b3d34383d143222d862a"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "templateExerciseId": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "difficulty": "beginner",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-11T11:34:43.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T11:34:43.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2b3e24383d143222d8633"
+  },
+  "title": "Test exercise",
+  "content": "This is a test b",
+  "type": "quiz",
+  "teacherModuleId": {
+    "$oid": "68c2b3e24383d143222d8630"
+  },
+  "templateExerciseId": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "difficulty": "intermediate",
+  "status": "active",
+  "isReusable": true,
+  "usageCount": 0,
+  "createdAt": {
+    "$date": "2025-09-11T11:34:58.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T11:34:58.455Z"
+  },
+  "__v": 0
+}]

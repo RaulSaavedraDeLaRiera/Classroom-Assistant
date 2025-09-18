@@ -1,0 +1,60 @@
+{
+  "teacherId": "68ca8bf8498b71e0f9eb54d1",
+  "adminId": "68ca8bf8498b71e0f9eb54d2",
+  "studentIds": [
+    "68ca8bf8498b71e0f9eb54d3",
+    "68ca8bf8498b71e0f9eb54d4",
+    "68ca8bf8498b71e0f9eb54d5",
+    "68ca8bf8498b71e0f9eb54d6",
+    "68ca8bf8498b71e0f9eb54d7",
+    "68ca8bf8498b71e0f9eb54d8"
+  ],
+  "templateCourseId": "68ca8bfb7399b5d4936cb92b",
+  "templateModuleIds": [
+    "68ca8bfb7399b5d4936cb926",
+    "68ca8bfb7399b5d4936cb927",
+    "68ca8bfb7399b5d4936cb928",
+    "68ca8bfb7399b5d4936cb929",
+    "68ca8bfb7399b5d4936cb92a"
+  ],
+  "templateExerciseIds": [
+    "68ca8bfb7399b5d4936cb91a",
+    "68ca8bfb7399b5d4936cb91b",
+    "68ca8bfb7399b5d4936cb91c",
+    "68ca8bfb7399b5d4936cb91d",
+    "68ca8bfb7399b5d4936cb91e",
+    "68ca8bfb7399b5d4936cb91f",
+    "68ca8bfb7399b5d4936cb920",
+    "68ca8bfb7399b5d4936cb921",
+    "68ca8bfb7399b5d4936cb922",
+    "68ca8bfb7399b5d4936cb923",
+    "68ca8bfb7399b5d4936cb924",
+    "68ca8bfb7399b5d4936cb925"
+  ],
+  "courseId": "68ca8bfdda4fa5e593e9ddef",
+  "moduleIds": [
+    "68ca8bfdda4fa5e593e9de06",
+    "68ca8bfdda4fa5e593e9de07",
+    "68ca8bfdda4fa5e593e9de08",
+    "68ca8bfdda4fa5e593e9de09",
+    "68ca8bfdda4fa5e593e9de0a"
+  ],
+  "exerciseIds": [
+    "68ca8bfdda4fa5e593e9ddf3",
+    "68ca8bfdda4fa5e593e9ddf4",
+    "68ca8bfdda4fa5e593e9ddf5",
+    "68ca8bfdda4fa5e593e9ddf6",
+    "68ca8bfdda4fa5e593e9ddf7",
+    "68ca8bfdda4fa5e593e9ddf8",
+    "68ca8bfdda4fa5e593e9ddfa",
+    "68ca8bfdda4fa5e593e9ddfb"
+  ],
+  "enrollmentIds": [
+    "68ca8c039c00cf963a6ade49",
+    "68ca8c039c00cf963a6ade4a",
+    "68ca8c039c00cf963a6ade4b",
+    "68ca8c039c00cf963a6ade4c",
+    "68ca8c039c00cf963a6ade4d",
+    "68ca8c039c00cf963a6ade4e"
+  ]
+}

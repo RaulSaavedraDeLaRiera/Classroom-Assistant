@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "68b5ce44df9bab8559b78167"
+  },
+  "title": "Demo Course",
+  "description": "A demo...",
+  "visible": true,
+  "tags": [
+    "english"
+  ],
+  "estimatedDuration": 1,
+  "isPublic": true,
+  "content": {
+    "modules": [
+      {
+        "$oid": "68b5cd551dd6f0a1860afc5e"
+      },
+      {
+        "$oid": "68b5cd7b1dd6f0a1860afc64"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-01T16:48:04.293Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T16:48:04.293Z"
+  },
+  "__v": 0
+}]

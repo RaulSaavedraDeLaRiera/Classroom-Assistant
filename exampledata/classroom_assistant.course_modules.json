@@ -1,0 +1,1386 @@
+[{
+  "_id": {
+    "$oid": "68c6eae5b14465e1ea25e130"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c6eae5b14465e1ea25e137"
+      },
+      {
+        "$oid": "68c6eae5b14465e1ea25e13c"
+      }
+    ],
+    "_id": {
+      "$oid": "68c6eae5b14465e1ea25e12f"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T16:18:45.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.377Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c6eaecb14465e1ea25e19e"
+  },
+  "previousModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e155"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6eae5b14465e1ea25e155"
+  },
+  "title": "Module 1",
+  "description": "Test xxx c",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c6eae5b14465e1ea25e15f"
+      },
+      {
+        "$oid": "68c6ecec733c7fad3227b7ca"
+      },
+      {
+        "$oid": "68c70b87f11b065cd4a72217"
+      },
+      {
+        "$oid": "68c718a462bfbe49fa8fd2b3"
+      }
+    ],
+    "_id": {
+      "$oid": "68c6eae5b14465e1ea25e154"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T16:18:45.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.376Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e130"
+  },
+  "previousModuleId": null
+},
+{
+  "_id": {
+    "$oid": "68c6eaecb14465e1ea25e19e"
+  },
+  "title": "test ",
+  "description": "test module",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c6eaecb14465e1ea25e1ac"
+      }
+    ],
+    "_id": {
+      "$oid": "68c6eaecb14465e1ea25e19d"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T16:18:52.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.378Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c712c590c32d0167f5aa5a"
+  },
+  "previousModuleId": {
+    "$oid": "68c6eae5b14465e1ea25e130"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6fc023f568326a601457f"
+  },
+  "title": "test progress",
+  "description": "test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68bf0eb153b7fc8b3f757f15"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 7,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c6fc023f568326a60145b9"
+      },
+      {
+        "$oid": "68c6fc023f568326a60145be"
+      },
+      {
+        "$oid": "68c6fd52e111d63c87018f3e"
+      },
+      {
+        "$oid": "68c7128090c32d0167f5aa26"
+      },
+      {
+        "$oid": "68c7249962bfbe49fa902e66"
+      }
+    ],
+    "_id": {
+      "$oid": "68c6fc023f568326a601457e"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T17:31:46.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.381Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7182a62bfbe49fa8fcf4b"
+  },
+  "previousModuleId": {
+    "$oid": "68c712c590c32d0167f5aa5a"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c712c590c32d0167f5aa5a"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "teacherModuleId": {
+    "$oid": "68b6054d56d90d27695db86b"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 22,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c712c590c32d0167f5aa9b"
+      },
+      {
+        "$oid": "68c712c590c32d0167f5aaa0"
+      },
+      {
+        "$oid": "68c712c590c32d0167f5aaa5"
+      }
+    ],
+    "_id": {
+      "$oid": "68c712c590c32d0167f5aa59"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:08:53.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.379Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c6fc023f568326a601457f"
+  },
+  "previousModuleId": {
+    "$oid": "68c6eaecb14465e1ea25e19e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7182a62bfbe49fa8fcf4b"
+  },
+  "title": "test ",
+  "description": "test module",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7182a62bfbe49fa8fcf93"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7182a62bfbe49fa8fcf4a"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:31:54.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.382Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7191062bfbe49fa8fd3f2"
+  },
+  "previousModuleId": {
+    "$oid": "68c6fc023f568326a601457f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7191062bfbe49fa8fd3f2"
+  },
+  "title": "test progress",
+  "description": "test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68bf0eb153b7fc8b3f757f15"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 7,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7191062bfbe49fa8fd441"
+      },
+      {
+        "$oid": "68c7191062bfbe49fa8fd446"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7191062bfbe49fa8fd3f1"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:35:44.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.383Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7194762bfbe49fa8fd508"
+  },
+  "previousModuleId": {
+    "$oid": "68c7182a62bfbe49fa8fcf4b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7194762bfbe49fa8fd508"
+  },
+  "title": "test ",
+  "description": "test module",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7194762bfbe49fa8fd55e"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7194762bfbe49fa8fd507"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:36:39.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.384Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7199c62bfbe49fa8fd642"
+  },
+  "previousModuleId": {
+    "$oid": "68c7191062bfbe49fa8fd3f2"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7199c62bfbe49fa8fd642"
+  },
+  "title": "MODULE 3",
+  "description": "AAA",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68c2db74c8c97fed0c2bb6b1"
+  },
+  "visible": true,
+  "tags": [
+    "AAA"
+  ],
+  "estimatedTime": 17,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7199c62bfbe49fa8fd69f"
+      },
+      {
+        "$oid": "68c7199c62bfbe49fa8fd6a4"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7199c62bfbe49fa8fd641"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:38:04.498Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.385Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c719d262bfbe49fa8fd77e"
+  },
+  "previousModuleId": {
+    "$oid": "68c7194762bfbe49fa8fd508"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c719d262bfbe49fa8fd77e"
+  },
+  "title": "test ",
+  "description": "test module",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c719d262bfbe49fa8fd7e2"
+      }
+    ],
+    "_id": {
+      "$oid": "68c719d262bfbe49fa8fd77d"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:38:58.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.386Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c71a0562bfbe49fa8fd841"
+  },
+  "previousModuleId": {
+    "$oid": "68c7199c62bfbe49fa8fd642"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a0562bfbe49fa8fd841"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "teacherModuleId": {
+    "$oid": "68b6054d56d90d27695db86b"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 22,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c71a0562bfbe49fa8fd8ac"
+      },
+      {
+        "$oid": "68c71a0562bfbe49fa8fd8b1"
+      },
+      {
+        "$oid": "68c71a0562bfbe49fa8fd8b6"
+      }
+    ],
+    "_id": {
+      "$oid": "68c71a0562bfbe49fa8fd840"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:39:49.371Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.387Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c71a1662bfbe49fa8fd986"
+  },
+  "previousModuleId": {
+    "$oid": "68c719d262bfbe49fa8fd77e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a1662bfbe49fa8fd986"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c71a1662bfbe49fa8fd9f8"
+      },
+      {
+        "$oid": "68c71a1662bfbe49fa8fd9fd"
+      }
+    ],
+    "_id": {
+      "$oid": "68c71a1662bfbe49fa8fd985"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:40:06.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.388Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c71a4c62bfbe49fa8fda7d"
+  },
+  "previousModuleId": {
+    "$oid": "68c71a0562bfbe49fa8fd841"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a4c62bfbe49fa8fda7d"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c71a4c62bfbe49fa8fdaf6"
+      },
+      {
+        "$oid": "68c71a4c62bfbe49fa8fdafb"
+      }
+    ],
+    "_id": {
+      "$oid": "68c71a4c62bfbe49fa8fda7c"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:41:00.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.389Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c71a5762bfbe49fa8fdbc3"
+  },
+  "previousModuleId": {
+    "$oid": "68c71a1662bfbe49fa8fd986"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a5762bfbe49fa8fdbc3"
+  },
+  "title": "Module 2",
+  "description": "Demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd7b1dd6f0a1860afc64"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 7,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c71a5762bfbe49fa8fdc43"
+      },
+      {
+        "$oid": "68c71a5762bfbe49fa8fdc48"
+      }
+    ],
+    "_id": {
+      "$oid": "68c71a5762bfbe49fa8fdbc2"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:41:11.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.390Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c71a9d62bfbe49fa8fdd5f"
+  },
+  "previousModuleId": {
+    "$oid": "68c71a4c62bfbe49fa8fda7d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71a9d62bfbe49fa8fdd5f"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "teacherModuleId": {
+    "$oid": "68b6054d56d90d27695db86b"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 22,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c71a9e62bfbe49fa8fdde6"
+      },
+      {
+        "$oid": "68c71a9e62bfbe49fa8fddeb"
+      },
+      {
+        "$oid": "68c71a9e62bfbe49fa8fddf0"
+      }
+    ],
+    "_id": {
+      "$oid": "68c71a9d62bfbe49fa8fdd5e"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:42:21.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.390Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c71afc62bfbe49fa8fe0a1"
+  },
+  "previousModuleId": {
+    "$oid": "68c71a5762bfbe49fa8fdbc3"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71afc62bfbe49fa8fe0a1"
+  },
+  "title": "MODULE 3",
+  "description": "AAA",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68c2db74c8c97fed0c2bb6b1"
+  },
+  "visible": true,
+  "tags": [
+    "AAA"
+  ],
+  "estimatedTime": 17,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c71afc62bfbe49fa8fe12f"
+      },
+      {
+        "$oid": "68c71afc62bfbe49fa8fe134"
+      }
+    ],
+    "_id": {
+      "$oid": "68c71afc62bfbe49fa8fe0a0"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:43:56.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.391Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c71b4e62bfbe49fa8fe34a"
+  },
+  "previousModuleId": {
+    "$oid": "68c71a9d62bfbe49fa8fdd5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c71b4e62bfbe49fa8fe34a"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c71b4e62bfbe49fa8fe3df"
+      },
+      {
+        "$oid": "68c71b4e62bfbe49fa8fe3e4"
+      }
+    ],
+    "_id": {
+      "$oid": "68c71b4e62bfbe49fa8fe349"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T19:45:18.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.393Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c724ee62bfbe49fa9031e5"
+  },
+  "previousModuleId": {
+    "$oid": "68c71afc62bfbe49fa8fe0a1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724c262bfbe49fa90308f"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "teacherModuleId": {
+    "$oid": "68b6054d56d90d27695db86b"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 22,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c724c262bfbe49fa90312b"
+      },
+      {
+        "$oid": "68c724c262bfbe49fa903130"
+      },
+      {
+        "$oid": "68c724c262bfbe49fa903135"
+      }
+    ],
+    "_id": {
+      "$oid": "68c724c262bfbe49fa90308e"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:25:38.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.395Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7252962bfbe49fa9036ca"
+  },
+  "previousModuleId": {
+    "$oid": "68c724ee62bfbe49fa9031e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724ee62bfbe49fa9031e5"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "teacherModuleId": {
+    "$oid": "68b6054d56d90d27695db86b"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 22,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c724ee62bfbe49fa903288"
+      },
+      {
+        "$oid": "68c724ee62bfbe49fa90328d"
+      },
+      {
+        "$oid": "68c724ee62bfbe49fa903292"
+      }
+    ],
+    "_id": {
+      "$oid": "68c724ee62bfbe49fa9031e4"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:26:22.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.394Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c724c262bfbe49fa90308f"
+  },
+  "previousModuleId": {
+    "$oid": "68c71b4e62bfbe49fa8fe34a"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c724f362bfbe49fa9033a1"
+  },
+  "title": "test progress",
+  "description": "test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68bf0eb153b7fc8b3f757f15"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 7,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c724f362bfbe49fa90344b"
+      },
+      {
+        "$oid": "68c724f362bfbe49fa903450"
+      }
+    ],
+    "_id": {
+      "$oid": "68c724f362bfbe49fa9033a0"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:26:27.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.401Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c725c962bfbe49fa903e00"
+  },
+  "previousModuleId": {
+    "$oid": "68c7259e62bfbe49fa903c39"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7252962bfbe49fa9036ca"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7252962bfbe49fa90377b"
+      },
+      {
+        "$oid": "68c7252962bfbe49fa903780"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7252962bfbe49fa9036c9"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:27:21.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.397Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7253462bfbe49fa9037c1"
+  },
+  "previousModuleId": {
+    "$oid": "68c724c262bfbe49fa90308f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7253462bfbe49fa9037c1"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7253462bfbe49fa903879"
+      },
+      {
+        "$oid": "68c7253462bfbe49fa90387e"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7253462bfbe49fa9037c0"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:27:32.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.398Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7259e62bfbe49fa903c39"
+  },
+  "previousModuleId": {
+    "$oid": "68c7252962bfbe49fa9036ca"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7259e62bfbe49fa903c39"
+  },
+  "title": "test progress",
+  "description": "test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68bf0eb153b7fc8b3f757f15"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 7,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7259e62bfbe49fa903cf8"
+      },
+      {
+        "$oid": "68c7259e62bfbe49fa903cfd"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7259e62bfbe49fa903c38"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:29:18.762Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.399Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c724f362bfbe49fa9033a1"
+  },
+  "previousModuleId": {
+    "$oid": "68c7253462bfbe49fa9037c1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c725c962bfbe49fa903e00"
+  },
+  "title": "test ",
+  "description": "test module",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c725ca62bfbe49fa903ec6"
+      }
+    ],
+    "_id": {
+      "$oid": "68c725c962bfbe49fa903dff"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:30:01.982Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.401Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c725fb62bfbe49fa903fba"
+  },
+  "previousModuleId": {
+    "$oid": "68c724f362bfbe49fa9033a1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c725fb62bfbe49fa903fba"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "progress": 0,
+  "type": "all",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c725fb62bfbe49fa904087"
+      },
+      {
+        "$oid": "68c725fb62bfbe49fa90408c"
+      }
+    ],
+    "_id": {
+      "$oid": "68c725fb62bfbe49fa903fb9"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:30:51.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.402Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7263362bfbe49fa904140"
+  },
+  "previousModuleId": {
+    "$oid": "68c725c962bfbe49fa903e00"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7263362bfbe49fa904140"
+  },
+  "title": "test progress",
+  "description": "test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68bf0eb153b7fc8b3f757f15"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 7,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7263362bfbe49fa904214"
+      },
+      {
+        "$oid": "68c7263362bfbe49fa904219"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7263362bfbe49fa90413f"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:31:47.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.403Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7264d62bfbe49fa904348"
+  },
+  "previousModuleId": {
+    "$oid": "68c725fb62bfbe49fa903fba"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7264d62bfbe49fa904348"
+  },
+  "title": "test ",
+  "description": "test module",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7264d62bfbe49fa904423"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7264d62bfbe49fa904347"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:32:13.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.405Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7265062bfbe49fa90444b"
+  },
+  "previousModuleId": {
+    "$oid": "68c7263362bfbe49fa904140"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7265062bfbe49fa90444b"
+  },
+  "title": "test progress",
+  "description": "test",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68bf0eb153b7fc8b3f757f15"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 7,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7265062bfbe49fa90452d"
+      },
+      {
+        "$oid": "68c7265062bfbe49fa904532"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7265062bfbe49fa90444a"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:32:16.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.406Z"
+  },
+  "__v": 0,
+  "nextModuleId": {
+    "$oid": "68c7269962bfbe49fa9046ef"
+  },
+  "previousModuleId": {
+    "$oid": "68c7264d62bfbe49fa904348"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7269962bfbe49fa9046ef"
+  },
+  "title": "test ",
+  "description": "test module",
+  "courseId": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "teacherModuleId": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "progress": 0,
+  "type": "progress",
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c7269962bfbe49fa9047d8"
+      }
+    ],
+    "_id": {
+      "$oid": "68c7269962bfbe49fa9046ee"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-14T20:33:29.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:41:50.407Z"
+  },
+  "__v": 0,
+  "nextModuleId": null,
+  "previousModuleId": {
+    "$oid": "68c7265062bfbe49fa90444b"
+  }
+}]

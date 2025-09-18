@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 15,
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68ab3bc8e0863ca8e75611d6"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-01T16:44:05.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T16:44:05.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5cd7b1dd6f0a1860afc64"
+  },
+  "title": "Module 2",
+  "description": "Demo",
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 7,
+  "status": "active",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68ab3e69e0863ca8e7561220"
+      },
+      {
+        "$oid": "68af5a7e3f0b1d7fc9132fb1"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-01T16:44:43.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T16:44:43.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2db74c8c97fed0c2bb6b1"
+  },
+  "title": "MODULE 3",
+  "description": "AAA",
+  "visible": true,
+  "tags": [
+    "AAA"
+  ],
+  "estimatedTime": 17,
+  "status": "active",
+  "type": "all",
+  "prerequisites": [],
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68ab3bc8e0863ca8e75611d6"
+      },
+      {
+        "$oid": "68af5a7e3f0b1d7fc9132fb1"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-11T14:23:48.651Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T14:23:48.651Z"
+  },
+  "__v": 0
+}]

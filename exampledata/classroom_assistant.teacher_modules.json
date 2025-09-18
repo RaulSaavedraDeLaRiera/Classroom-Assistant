@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "68b6054d56d90d27695db86b"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 22,
+  "status": "active",
+  "type": "all",
+  "prerequisites": [],
+  "isReusable": true,
+  "usageCount": 0,
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68b6054d56d90d27695db86e"
+      },
+      {
+        "$oid": "68b60721cc6d307e0920fe8a"
+      },
+      {
+        "$oid": "68b60718cc6d307e0920fe7a"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-01T20:42:53.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T20:50:53.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b99fe191e393026ab0ddc5"
+  },
+  "title": "Module demo",
+  "description": "demo",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [
+    "demo"
+  ],
+  "estimatedTime": 70,
+  "status": "active",
+  "type": "all",
+  "prerequisites": [],
+  "isReusable": false,
+  "usageCount": 0,
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68b991fb4e50209c274c798d"
+      },
+      {
+        "$oid": "68b99fce91e393026ab0ddbd"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:19:13.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T14:19:13.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68beecf521ea6418801770e1"
+  },
+  "title": "test ",
+  "description": "test module",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 15,
+  "status": "active",
+  "type": "progress",
+  "prerequisites": [],
+  "isReusable": true,
+  "usageCount": 0,
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68b6054d56d90d27695db86e"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-08T14:49:25.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-08T14:49:25.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bf0eb153b7fc8b3f757f15"
+  },
+  "title": "test progress",
+  "description": "test",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "visible": true,
+  "tags": [],
+  "estimatedTime": 7,
+  "status": "active",
+  "type": "progress",
+  "prerequisites": [],
+  "isReusable": true,
+  "usageCount": 0,
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68b60718cc6d307e0920fe7a"
+      },
+      {
+        "$oid": "68b60721cc6d307e0920fe8a"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-08T17:13:21.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-08T17:13:21.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2b3e24383d143222d8630"
+  },
+  "title": "Module 1",
+  "description": "Test",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "templateModuleId": {
+    "$oid": "68b5cd551dd6f0a1860afc5e"
+  },
+  "visible": true,
+  "tags": [
+    "Test"
+  ],
+  "estimatedTime": 15,
+  "status": "active",
+  "type": "all",
+  "prerequisites": [],
+  "isReusable": true,
+  "usageCount": 0,
+  "content": {
+    "exercises": [
+      {
+        "$oid": "68c2b3e24383d143222d8633"
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-09-11T11:34:58.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T11:34:58.457Z"
+  },
+  "__v": 0
+}]

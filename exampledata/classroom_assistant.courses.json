@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "68c6eae5b14465e1ea25e12c"
+  },
+  "title": "Demo Course",
+  "description": "A demo...",
+  "teacherId": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "modules": [
+    {
+      "$oid": "68c6eae5b14465e1ea25e130"
+    },
+    {
+      "$oid": "68c6eae5b14465e1ea25e155"
+    },
+    {
+      "$oid": "68c6eaecb14465e1ea25e19e"
+    },
+    {
+      "$oid": "68c6fc023f568326a601457f"
+    },
+    {
+      "$oid": "68c712c590c32d0167f5aa5a"
+    },
+    {
+      "$oid": "68c7182a62bfbe49fa8fcf4b"
+    },
+    {
+      "$oid": "68c7191062bfbe49fa8fd3f2"
+    },
+    {
+      "$oid": "68c7194762bfbe49fa8fd508"
+    },
+    {
+      "$oid": "68c7199c62bfbe49fa8fd642"
+    },
+    {
+      "$oid": "68c719d262bfbe49fa8fd77e"
+    },
+    {
+      "$oid": "68c71a0562bfbe49fa8fd841"
+    },
+    {
+      "$oid": "68c71a1662bfbe49fa8fd986"
+    },
+    {
+      "$oid": "68c71a4c62bfbe49fa8fda7d"
+    },
+    {
+      "$oid": "68c71a5762bfbe49fa8fdbc3"
+    },
+    {
+      "$oid": "68c71a9d62bfbe49fa8fdd5f"
+    },
+    {
+      "$oid": "68c71afc62bfbe49fa8fe0a1"
+    },
+    {
+      "$oid": "68c71b4e62bfbe49fa8fe34a"
+    },
+    {
+      "$oid": "68c724c262bfbe49fa90308f"
+    },
+    {
+      "$oid": "68c724ee62bfbe49fa9031e5"
+    },
+    {
+      "$oid": "68c724f362bfbe49fa9033a1"
+    },
+    {
+      "$oid": "68c7252962bfbe49fa9036ca"
+    },
+    {
+      "$oid": "68c7253462bfbe49fa9037c1"
+    },
+    {
+      "$oid": "68c7259e62bfbe49fa903c39"
+    },
+    {
+      "$oid": "68c725c962bfbe49fa903e00"
+    },
+    {
+      "$oid": "68c725fb62bfbe49fa903fba"
+    },
+    {
+      "$oid": "68c7263362bfbe49fa904140"
+    },
+    {
+      "$oid": "68c7264d62bfbe49fa904348"
+    },
+    {
+      "$oid": "68c7265062bfbe49fa90444b"
+    },
+    {
+      "$oid": "68c7269962bfbe49fa9046ef"
+    }
+  ],
+  "students": [
+    {
+      "$oid": "68b1be108d2f6873fa038fc7"
+    },
+    {
+      "$oid": "68b1bed38e35dedc9ab07f37"
+    }
+  ],
+  "visible": true,
+  "tags": [
+    "english"
+  ],
+  "estimatedTime": 2,
+  "status": "active",
+  "maxStudents": 20,
+  "createdAt": {
+    "$date": "2025-09-14T16:18:45.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T20:33:29.180Z"
+  },
+  "__v": 0
+}]

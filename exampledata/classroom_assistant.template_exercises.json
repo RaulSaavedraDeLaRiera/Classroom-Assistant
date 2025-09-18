@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "68ab3bc8e0863ca8e75611d6"
+  },
+  "title": "Test exercise",
+  "content": "This is a test b",
+  "type": "quiz",
+  "templateModuleId": "",
+  "visible": true,
+  "tags": [
+    "test",
+    "beginner"
+  ],
+  "estimatedTime": 15,
+  "difficulty": "intermediate",
+  "estimatedScore": 50,
+  "createdAt": {
+    "$date": "2025-08-24T16:20:24.690Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T10:31:31.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ab3e69e0863ca8e7561220"
+  },
+  "title": "Test 2",
+  "content": "Test double",
+  "type": "writing",
+  "templateModuleId": "",
+  "visible": true,
+  "tags": [
+    "writing",
+    "B2"
+  ],
+  "estimatedTime": 5,
+  "difficulty": "intermediate",
+  "estimatedScore": 50,
+  "createdAt": {
+    "$date": "2025-08-24T16:31:37.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-24T16:31:37.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ab49b892e1ddb546a7f2b7"
+  },
+  "title": "Blank",
+  "content": "Create your exercise...",
+  "type": "quiz",
+  "templateModuleId": "",
+  "visible": false,
+  "tags": [],
+  "estimatedTime": 0,
+  "difficulty": "beginner",
+  "estimatedScore": 0,
+  "createdAt": {
+    "$date": "2025-08-24T17:19:52.749Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-24T17:20:21.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af5a7e3f0b1d7fc9132fb1"
+  },
+  "title": "test3",
+  "content": "## demo",
+  "type": "quiz",
+  "visible": true,
+  "tags": [
+    "grammar"
+  ],
+  "estimatedTime": 2,
+  "difficulty": "beginner",
+  "estimatedScore": 50,
+  "createdAt": {
+    "$date": "2025-08-27T19:20:30.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T10:31:40.044Z"
+  },
+  "__v": 0
+}]

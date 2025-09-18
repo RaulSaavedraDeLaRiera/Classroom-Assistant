@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "68ab2633611526305f4c1f88"
+  },
+  "name": "John Teacher",
+  "email": "john@teacher.com",
+  "password": "$2b$10$73xvbY00SYkY4MmKY2VOOOd8youXcChpa0tteCjUH1xRGABmMUcye",
+  "role": "teacher",
+  "active": true,
+  "visible": true,
+  "tags": [],
+  "createdAt": {
+    "$date": "2025-08-24T14:48:19.274Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-24T14:48:19.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "68ab2633611526305f4c1f89",
+  "name": "System Administrator",
+  "email": "admin@classroom.com",
+  "password": "$2b$10$hJJK7EpdRSt7sQoPCcdxx.5zpC/g5ZG/Aa1/V4Er3ipvGSOBiVulS",
+  "role": "admin",
+  "active": true,
+  "visible": true,
+  "tags": [],
+  "createdAt": "2025-01-24T16:40:00.000+00:00",
+  "updatedAt": "2025-01-24T16:40:00.00+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b1be108d2f6873fa038fc7"
+  },
+  "name": "barry",
+  "email": "barry@student.com",
+  "password": "barry",
+  "role": "student",
+  "active": true,
+  "visible": true,
+  "tags": [],
+  "teacherIds": [
+    {
+      "$oid": "68ab2633611526305f4c1f88"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-29T14:49:52.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-29T14:49:52.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b1bed38e35dedc9ab07f37"
+  },
+  "name": "marcus",
+  "email": "marcus@student.com",
+  "password": "marcus",
+  "role": "student",
+  "active": false,
+  "visible": true,
+  "tags": [],
+  "teacherIds": [
+    {
+      "$oid": "68ab2633611526305f4c1f88"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-29T14:53:07.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T13:10:52.788Z"
+  },
+  "__v": 0
+}]
